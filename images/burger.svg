@@ -1,0 +1,21 @@
+<svg width="40" height="18" viewBox="0 0 40 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="40" height="18" fill="#E5E5E5"/>
+<g id="Desktop - 1" clip-path="url(#clip0_0_1)">
+<rect width="1920" height="2898" transform="translate(-1780 -40)" fill="black"/>
+<g id="heder">
+<g id="navigation">
+<rect id="Rectangle 1" x="-1780" y="-40" width="1920" height="100" fill="white"/>
+<g id="Group 3">
+<rect id="Rectangle 3" width="40" height="4" fill="black"/>
+<rect id="Rectangle 4" y="7" width="40" height="4" fill="black"/>
+<rect id="Rectangle 5" y="14" width="40" height="4" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1920" height="2898" fill="white" transform="translate(-1780 -40)"/>
+</clipPath>
+</defs>
+</svg>
