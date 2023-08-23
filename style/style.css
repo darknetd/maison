@@ -196,11 +196,11 @@ ul {
   line-height: 27px;
 }
 .footer__title {
-  color: #fff;
+  margin-bottom: 25px;
+  color: #FFF;
   font-family: Montserrat;
-  font-size: 30px;
-  font-weight: 800;
-  letter-spacing: 4.5px;
+  font-size: 20px;
+  font-weight: 700;
 }
 .link {
   color: #fff;
@@ -232,4 +232,60 @@ ul {
 }
 .series__item-bg{
     width: 100%;
+}
+.post__descr {
+  color: #FFF;
+  font-family: var(--mont);
+  font-size: 16px;
+  font-weight: 500;
+  padding-bottom: 23px;
+}
+.date, .connect, .last {
+  color: #6D6D6D;
+  font-family: var(--mont);
+  font-size: 16px;
+  font-weight: 400;
+}
+.date, .connect, .last {
+  color: #6D6D6D;
+  font-family: var(--mont);
+  font-size: 16px;
+  font-weight: 400;
+}
+.forthcolumn {
+  margin-right: 100px;
+}
+.form {
+  display: flex;
+}
+
+form {
+  max-width: 350px;
+  background-color: #f4f4f4;
+  margin-bottom: 35px;
+}
+input[type="text"] {
+  width: 300px;
+  border: 1px solid #ccc;
+}
+button[type="submit"] {
+  background-color: grey;
+  color: #fff;
+  padding: 10px 10px;
+  border: none;
+  cursor: pointer;
+  width: 50px;
+  font-family: var(--mont);
+  font-size: 20px;
+  font-weight: 700;
+}
+.last {
+  margin-bottom: 35px;
+}
+.posts, .tweets, .join {
+  margin-bottom: 25px;
+  color: #FFF;
+  font-family: var(--mont);
+  font-size: 20px;
+  font-weight: 700;
 }
